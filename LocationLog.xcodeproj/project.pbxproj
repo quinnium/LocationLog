@@ -25,6 +25,7 @@
 		9C61A33B27556AAD000A2029 /* ImportManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C61A33A27556AAD000A2029 /* ImportManager.swift */; };
 		9C67D08027825AD900989A66 /* InformationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C67D07F27825AD900989A66 /* InformationViewController.swift */; };
 		9C67D0822783521500989A66 /* Texts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C67D0812783521500989A66 /* Texts.swift */; };
+		9C6903172A6D6BEF00327E9A /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C6903162A6D6BEF00327E9A /* LocationManager.swift */; };
 		9C6A1F3026FBCC3600672D8F /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C6A1F2F26FBCC3600672D8F /* SearchViewController.swift */; };
 		9C6DD2A2277FB162004BFE99 /* PersistenceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C6DD2A1277FB162004BFE99 /* PersistenceManager.swift */; };
 		9C81BAAF270E2B7D00110BDF /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C81BAAE270E2B7D00110BDF /* Alerts.swift */; };
@@ -69,6 +70,7 @@
 		9C61A33A27556AAD000A2029 /* ImportManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImportManager.swift; sourceTree = "<group>"; };
 		9C67D07F27825AD900989A66 /* InformationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InformationViewController.swift; sourceTree = "<group>"; };
 		9C67D0812783521500989A66 /* Texts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Texts.swift; sourceTree = "<group>"; };
+		9C6903162A6D6BEF00327E9A /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 		9C6A1F2F26FBCC3600672D8F /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		9C6DD2A1277FB162004BFE99 /* PersistenceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistenceManager.swift; sourceTree = "<group>"; };
 		9C81BAAE270E2B7D00110BDF /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
@@ -226,6 +228,7 @@
 		9CCA3DF72A6D628200A569A9 /* Private_ignore */ = {
 			isa = PBXGroup;
 			children = (
+				9C6903162A6D6BEF00327E9A /* LocationManager.swift */,
 			);
 			path = Private_ignore;
 			sourceTree = "<group>";
@@ -352,6 +355,7 @@
 				02772FD1286F02F100724ED3 /* ShortcutsManager.swift in Sources */,
 				9C3855C0273B046500EEA7D2 /* GeoSearchViewController.swift in Sources */,
 				9CD20B5027332F5500B45FED /* DateItem.swift in Sources */,
+				9C6903172A6D6BEF00327E9A /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
